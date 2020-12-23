@@ -19,6 +19,7 @@
 #include <winsock2.h>
 #include <ws2tcpip.h>
 #include <windows.h>
+#include <afunix.h>
 /* clang-format on */
 
 #if defined(__clang__)
